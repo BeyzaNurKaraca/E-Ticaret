@@ -1,0 +1,12 @@
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\bin\Debug\And.ETicaret.Core.dll.config
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\bin\Debug\And.ETicaret.Core.dll
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\bin\Debug\And.ETicaret.Core.pdb
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\bin\Debug\EntityFramework.dll
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\bin\Debug\EntityFramework.xml
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\obj\Debug\And.ETicaret.Core.Model.csproj.AssemblyReference.cache
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\obj\Debug\And.ETicaret.Core.Model.csproj.CoreCompileInputs.cache
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\obj\Debug\And.ETicaret.Core.Model.csproj.CopyComplete
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\obj\Debug\And.ETicaret.Core.dll
+C:\Users\kamer\Desktop\LütfenBitir\And.ETicaret\And.ETicaret.Core\obj\Debug\And.ETicaret.Core.pdb

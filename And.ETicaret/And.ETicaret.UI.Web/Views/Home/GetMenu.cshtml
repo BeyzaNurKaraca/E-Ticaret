@@ -1,0 +1,10 @@
+﻿@model IEnumerable<And.ETicaret.Core.Entity.Category>
+
+@{
+
+    foreach (var item in Model)
+    {
+        <li class="item"><a class="list-group-item-heading"href="/category/@item.Name.Replace(" ","-")/@item.Id">@item.Name</a></li>
+
+    }
+ }
